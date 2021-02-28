@@ -12,7 +12,6 @@ This is a attempt to make a deeplearning chatbot to eplore machine learning and 
     - Download file from website
     - Open terminal 
     - Left mouse click >> properties >> permissions >> check square on bottom (or do alternitely chmod command)
-    $ ./filename.sh 
 
 4. Install libraries:
     $ pip3 install --user -U nltk
