@@ -15,10 +15,12 @@ This is a attempt to make a deeplearning chatbot to eplore machine learning and 
     $ ./filename.sh 
 
 4. Install libraries:
-  $ pip3 install --user -U nltk
-  $ pip3 install --user --upgrade tensorflow
-5. Make a indents.json file
-6. Make a main.py file
+    $ pip3 install --user -U nltk
+    $ pip3 install --user --upgrade tensorflow
+5. In terminal:
+    $ activate chatbot  
+6. Make a indents.json file
+7. Make a main.py file
   
   
 
