@@ -16,7 +16,7 @@ This is a attempt to make a deeplearning chatbot to eplore machine learning and 
 4. Install libraries:
     - $ pip3 install --user -U nltk
     - $ pip3 install --user --upgrade tensorflow  
-    - pip3 install --user -U numpy
+    - $ pip3 install --user -U numpy
 6. Make a indents.json file
 7. Make a main.py file
   
